@@ -1,0 +1,12 @@
+# JS files
+*.js
+*.js.map
+
+# Folders
+node_modules
+typings
+
+# Logs
+logs
+*.log
+npm-debug.log*
